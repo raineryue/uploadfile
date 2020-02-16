@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://api.nextvpu.com:9081/anglered/en/images/ios/AngleRead.ipa</string>
+					<string>http://api.nextvpu.com:9081/anglered/en/images/ios/AngleRead.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://api.nextvpu.com:9081/anglered/en/images/ios/download.png</string>
+					<string>http://api.nextvpu.com:9081/anglered/en/images/ios/download.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://api.nextvpu.com:9081/anglered/en/images/ios/reader.png</string>
+					<string>http://api.nextvpu.com:9081/anglered/en/images/ios/reader.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
